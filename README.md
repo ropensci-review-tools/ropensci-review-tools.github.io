@@ -1,4 +1,4 @@
-i# ropensci-review-tools
+# ropensci-review-tools
 
 This organisation contains several packages developed for
 [rOpenSci](https://ropensci.org)’s review process, and in particular for
