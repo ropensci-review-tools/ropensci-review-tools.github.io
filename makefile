@@ -13,7 +13,7 @@ mv: $(LFILE).html
 	mv $(LFILE).html $(IFILE).html
 
 open: $(IFILE).html
-	xdg-open $(LFILE).html &
+	xdg-open $(IFILE).html &
 
 clean:
 	rm -rf *.html README_cache 
