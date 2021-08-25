@@ -1,4 +1,9 @@
-# ropensci-review-tools
+**NOTE** This repository has been archived. Main website is now
+[ropensci-review-tools.readthedocs.io](https://ropensci-review-tools.readthedocs.io),
+generated from source repository
+[ropensci-review-tools/ropensci-review-tools](https://github.com/ropensci-review-tools/ropensci-review-tools).
+
+------------------------------------------------------------------------
 
 This organisation contains several packages developed for
 [rOpenSci](https://ropensci.org)’s review process, and in particular for
